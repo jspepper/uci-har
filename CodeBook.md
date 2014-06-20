@@ -1,3 +1,5 @@
+CodeBook
+========
 
 Each variable represents the average of a particular measurement
 for each subject/activity pair. Since the original data was scaled,
