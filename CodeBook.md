@@ -6,7 +6,7 @@ for each subject/activity pair. Since the original data was scaled,
 the variables do not have a unit associated with them.
 
 subject
-    integer representing the volunteer subject (1-30)
+> integer representing the volunteer subject (1-30)
 
 activity
     textual description of the activity performed by the volunteer subject
