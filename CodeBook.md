@@ -1,7 +1,7 @@
 CodeBook
 ========
 
-Each variable represents the average of a particular measurement
+Each variable represents the average of that particular measurement
 for each subject/activity pair. Since the original data was scaled,
 the variables do not have a unit associated with them.
 
